@@ -60,7 +60,6 @@ buck-out/
 
 # Os demais arquivos
 #
-
 .buckconfig
 .editorconfig
 .eslintrc.json
@@ -76,5 +75,5 @@ jsconfig.json
 metro.config.js
 package.json
 yarn.lock
-__tests__
+__tests__/
 
